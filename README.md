@@ -1,5 +1,5 @@
 # Hyperinflation in Inflation Dataset CENG474-Project
-The project we did with my teammate at the end of the semester for CENG 474 (Introduction to Data Science) course.  
+The project we did with my teammate at the end of the 5th semester for CENG 474 (Introduction to Data Science) course.  
 
 In this project, we used the 5 main inflation types (Headline Consumer Price, Energy Consumer Price, Food Consumer Price, Official Core Consumer Price, Producer Price) data from 1970 to 2022 of all countries in the world that share their inflation data, which we found readily available on the internet (global_dataset_inflation.csv).
 
